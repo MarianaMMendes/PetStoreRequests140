@@ -1,0 +1,22 @@
+{
+  "id": 173218101,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Snoopy",
+  "photoUrls": [
+    ""
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "vacinado"
+    },
+    {
+      "id": 2,
+      "name": "vermifugado"
+    }
+  ],
+  "status": "available"
+}

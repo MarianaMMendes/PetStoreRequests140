@@ -1,0 +1,5 @@
+pet_id,category_id,category_name,pet_name,tags,status
+173218102,2,cat,Garfield,1-vacinado;2-vermifugado,available
+173218103,3,fish,Nemo,3-raro,available
+173218104,1,dog,Oggi,2-vermifugado,available
+173218105,4,bir,Garibaldo,3-raro,available
